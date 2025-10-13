@@ -1,0 +1,145 @@
+
+Produtos.txt
+
+Código: 283187
+Nome: Creatina Growth
+Valor: 99.90
+Quantidade: 35
+Categoria: Suplementos
+Descrição: Pote de Creatina Growth 400g black 
+Total: 3496.50
+Data: 08-10-2025
+CEP: 60015000
+Número: 346
+Endereço: Avenida Tristão Gonçalves - Centro
+Cidade: Fortaleza
+Estado: CE
+========================================
+Código: 283187
+Nome: Barra de Cereal whey
+Valor: 11.49
+Quantidade: 156
+Categoria: Alimentos
+Descrição: Barra de Cereal whey Natuvida 40g
+Total: 1792.44
+Data: 06-10-2025
+CEP: 60341020
+Número: 569
+Endereço: Rua Eretides Alencar - Jardim Iracema
+Cidade: Fortaleza
+Estado: CE
+========================================
+Código: 282454
+Nome: whey Protein 100% pure
+Valor: 100.69
+Quantidade: 65
+Categoria: Suplementos
+Descrição: 100% Pure Whey Nova Fórmula - 900g Refil Chocolate - Probiótica
+Total: 6544.85
+Data: 26-08-2025
+CEP: 60411170
+Número: 1395
+Endereço: Rua Napoleão Laureano - Fátima
+Cidade: Fortaleza
+Estado: CE
+========================================
+Código: 235469
+Nome: shake emagrecedor e vitaminas
+Valor: 23.99
+Quantidade: 367
+Categoria: Bebidas
+Descrição: Shake e vitaminas, alimento para redução de peso, 210g, lavitan by redubio
+Total: 8804.33
+Data: 18-09-2025
+CEP: 60135228
+Número: 546
+Endereço: Rua Lívio Barreto - Dionisio Torres
+Cidade: Fortaleza
+Estado: CE
+========================================
+Código: 249069
+Nome: Termogênico
+Valor: 118.00
+Quantidade: 125
+Categoria: Suplementos
+Descrição: Termogênico Rapid Fuse 60 cápsulas
+Total: 14750.00
+Data: 09-10-2025
+CEP: 61769240
+Número: 1564
+Endereço: Rua José Bento - Amador
+Cidade: Eusébio
+Estado: CE
+========================================
+Código: 225473
+Nome: Garrafa Pacco 950ml
+Valor: 340.00
+Quantidade: 68
+Categoria: Outros
+Descrição: Garrafa Térmica VYTA Pacco 950ml Preta
+Total: 23120.00
+Data: 01-10-2025
+CEP: 60861098
+Número: 346
+Endereço: Rua Santana da Parnaíba - Boa Vista-Castelão
+Cidade: Fortaleza
+Estado: CE
+========================================
+Código: 257490
+Nome: YopPRO 1L
+Valor: 28.64
+Quantidade: 269
+Categoria: Bebidas
+Descrição: YoPRO bebida lácetea UHT 1L 60g de proteínas sabor chocolate
+Total: 7704.16
+Data: 09-10-2025
+CEP: 60430440
+Número: 52
+Endereço: Rua João Sorongo - Rodolfo Teófilo
+Cidade: Fortaleza
+Estado: CE
+========================================
+Código: 225467
+Nome: Sanduíche Natural - Frango
+Valor: 8.59
+Quantidade: 123
+Categoria: Alimentos
+Descrição: Sanduíche natural de frango com milho, natuvida - 400g
+Total: 1056.57
+Data: 07-10-2025
+CEP: 60541242
+Número: 293
+Endereço: Rua Sousa Carvalho - Granja Portugal
+Cidade: Fortaleza
+Estado: CE
+========================================
+Código: 246571
+Nome: Chá de capim Santo
+Valor: 4.50
+Quantidade: 236
+Categoria: Bebidas
+Descrição: Chá natural de Capim Santo - 500ml
+Total: 1062.00
+Data: 2025-09-16
+CEP: 60721000
+Número: 153
+Endereço: Rua Frei Serafim - Parangaba
+Cidade: Fortaleza
+Estado: CE
+========================================
+Código: 294185
+Nome: Alça para garrafa Pacco
+Valor: 80.00
+Quantidade: 129
+Categoria: Outros
+Descrição: Alça durável e forte para transportar garrafa térmica Pacco Preto
+Total: 10320.00
+Data: 09-10-2025
+CEP: 60170001
+Número: 2467
+Endereço: Avenida Desembargador Moreira - Aldeota
+Cidade: Fortaleza
+Estado: CE
+========================================
+
+
