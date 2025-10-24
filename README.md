@@ -1,2 +1,3 @@
 # GreenBe
-Site de produtos naturais com dashboards
+
+Projeto para reforçar habilidades de programação usando python e bibliotecas como streamlit, pandas, matplotlib e seaborn.
