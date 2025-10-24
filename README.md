@@ -31,7 +31,7 @@ Tecnologias utilizadas:
 
   👨‍💻 Cauê Dória
 Estudante de Economia e aspirante a Analista de Dados.
-📫 [cauedoria99@gmail.com
+📫 [cauedoria99@gmail.co
 ]
 🔗 [LinkedIn](https://www.linkedin.com/in/cauedoria/)
 
