@@ -18,11 +18,20 @@ Geolocalização de vendas com integração ao Geopy para exibir um mapa dinâmi
 
 Armazenamento local de dados em arquivo .txt e conversão automática para DataFrame do Pandas.
 
-Tecnologias utilizadas
-Tecnologia	Função
-Python	Linguagem base
-Streamlit	Criação da interface web
-Plotly Express	Visualização de dados
-Pandas	Manipulação de dados
-Geopy	Geocodificação de endereços
-Requests	Consumo da API ViaCEP
+Tecnologias utilizadas:
+
+- Python - Linguagem base
+- Streamlit	- Criação da interface web
+- Plotly - Visualização de dados
+- Pandas - Manipulação de dados
+- Geopy	- Geocodificação de endereços
+- Requests - Consumo da API ViaCEP
+
+  Esse app foi criado com fins educacionais, para aplicar conceitos de análise de dados, visualização e automação em Python.
+
+  👨‍💻 Cauê Dória
+Estudante de Economia e aspirante a Analista de Dados.
+📫 [cauedoria99@gmail.com
+]
+🔗 [LinkedIn](https://www.linkedin.com/in/cauedoria/)
+
